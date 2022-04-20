@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+}
+
+.total{
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.btn{
+    font-weight: bold;
+    font-size: 24px;
+}
+.answerCard{
+    border: 1px solid gray;
+    margin: 20px;
+    /* margin-left: 0; */
+}
+
+.answerLetter{
+    font-size:24px;
+    font-weight: bold;
+    color:#000;
+}
+
+.progressBar{
+    padding:50px 0;
+}
